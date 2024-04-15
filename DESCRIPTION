@@ -9,11 +9,16 @@ License: What license it uses
 Depends: 
     biblionetwork,
     dataRetrieval,
+    devtools,
     dplyr,
     ggplot2,
+    holepunch,
     lubridate,
+    remotes,
     renv,
     tidyr,
     viridis
+Remotes: 
+    karthik/holepunch
 Encoding: UTF-8
 LazyData: true
